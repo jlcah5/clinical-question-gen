@@ -8,7 +8,7 @@ name = "synthetic_qa"
 version = "0.0.1"
 
 authors = [
-  { name="Jordan Cahoon", email="cahoon@stanford.edu" },
+  { name="", email="" },
 ]
 description = "Generate synthetic question-answer EHR dataset with supporting evidence"
 readme = "README.md"
@@ -36,5 +36,5 @@ dependencies = [
 license = {text = "MIT"}
 
 [project.urls]
-Homepage = "https://github.com/alsentzerlab/synthetic-qa"
-Issues = "https://github.com/alsentzerlab/synthetic-qa/issues"
+Homepage = ""
+Issues = ""
