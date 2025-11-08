@@ -1,4 +1,4 @@
-# synthetic-qa
+# Benchmark for Retrieving Information in EHRs (BRIE) Phase 1
 
 To install the dependencies, run:
 
